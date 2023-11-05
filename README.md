@@ -2,7 +2,7 @@
 
 
 ## Description
-- This website helps you have your own customized list of workouts that you prefer is best for you, and you can edit or delete any time and modify it according to your needs.
+- This website helps out you  to track your daily, weekly, monthly, yearly expenses and you can edit or delete any time and modify it according to your needs.
 
 
 
