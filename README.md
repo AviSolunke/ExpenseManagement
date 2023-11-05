@@ -1,1 +1,2 @@
-# ExpenseManagement
+# ExpenseManagement- Your Expense Tracker
+##Description
